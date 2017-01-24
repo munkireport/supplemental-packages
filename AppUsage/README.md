@@ -13,7 +13,7 @@ These packages are needed to supply the [App Usage](https://github.com/munkirepo
     ```
 
     ```bash
-    munkiimport ~/Downloads/supplemental-packages-master/AppUsage/crankd_application_usage.pkg --update_for="Munkireport" --unattended_install
+    munkiimport ~/Downloads/supplemental-packages-master/AppUsage/crankd_application_usage.pkg --update_for="crankd" --unattended_install
     ```
 
 
