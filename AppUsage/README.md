@@ -15,3 +15,12 @@ These packages are needed to supply the [App Usage](https://github.com/munkirepo
     ```bash
     munkiimport ~/Downloads/supplemental-packages-master/AppUsage/crankd_application_usage.pkg --update_for="Munkireport" --unattended_install
     ```
+
+
+# Resources
+
+If you wish to build these packages yourself you can utilize [munkipkg](https://github.com/munki/munki-pkg) plus the [github.com/munki/munki-pkg-projects](https://github.com/munki/munki-pkg-projects) repo.
+
+Source files:
+* crankd - [https://github.com/munki/munki-pkg-projects/tree/master/crankd](https://github.com/munki/munki-pkg-projects/tree/master/crankd)
+* application_usage source files - [https://github.com/google/macops/tree/master/crankd](https://github.com/google/macops/tree/master/crankd)
