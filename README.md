@@ -1,2 +1,3 @@
-# supplemental_packages
-Supplemental packages for MunkiReport
+# Supplemental Packages
+
+Supplemental packages for [MunkiReport](https://github.com/munkireport/munkireport-php)
