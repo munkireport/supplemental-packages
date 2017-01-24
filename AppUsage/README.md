@@ -9,7 +9,7 @@ These packages are needed to supply the [App Usage](https://github.com/munkirepo
   **Note**: If your Munkireport package is named differently please modify the `--update_for` flag accordingly.
 
     ```bash
-    $ munkiimport ~/Downloads/supplemental-packages-master/AppUsage/crankd.pkg --update_for="Munkireport" --unattended_install
+    munkiimport ~/Downloads/supplemental-packages-master/AppUsage/crankd.pkg --update_for="Munkireport" --unattended_install
     ```
 
     ```bash
